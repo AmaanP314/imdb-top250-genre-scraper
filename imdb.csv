@@ -1,0 +1,251 @@
+Name,GENRES,rating
+Schindler's List,"Biography,Drama,History",9.0
+12 Angry Men,"Crime,Drama",9.0
+The Shawshank Redemption,Drama,9.3
+Pulp Fiction,"Crime,Drama",8.9
+The Lord of the Rings: The Return of the King,"Action,Adventure,Drama",9.0
+The Godfather,"Crime,Drama",9.2
+The Godfather Part II,"Crime,Drama",9.0
+The Lord of the Rings: The Fellowship of the Ring,"Action,Adventure,Drama",8.9
+The Lord of the Rings: The Two Towers,"Action,Adventure,Drama",8.8
+The Dark Knight,"Action,Crime,Drama",9.0
+Star Wars: Episode V - The Empire Strikes Back,"Action,Adventure,Fantasy",8.7
+Forrest Gump,"Drama,Romance",8.8
+The Matrix,"Action,Sci-Fi",8.7
+Dances with Wolves,"Adventure,Drama,Western",8.0
+"Paris, Texas",Drama,8.1
+Aladdin,"Animation,Adventure,Comedy",8.0
+It Happened One Night,"Comedy,Romance",8.1
+"The Good, the Bad and the Ugly","Adventure,Western",8.8
+Fight Club,Drama,8.8
+Inception,"Action,Adventure,Sci-Fi",8.8
+Cool Hand Luke,"Crime,Drama",8.1
+The Iron Giant,"Animation,Action,Adventure",8.1
+Amores Perros,"Drama,Thriller",8.1
+Rebecca,"Drama,Mystery,Romance",8.1
+The Grapes of Wrath,Drama,8.1
+The Sound of Music,"Biography,Drama,Family",8.1
+The Help,Drama,8.1
+Groundhog Day,"Comedy,Drama,Fantasy",8.0
+My Father and My Son,"Drama,Family",8.2
+The Battle of Algiers,"Drama,War",8.1
+To Be or Not to Be,"Comedy,Romance,War",8.1
+Hachi: A Dog's Tale,"Biography,Drama,Family",8.1
+Jai Bhim,"Crime,Drama,Mystery",8.7
+The Handmaiden,"Drama,Romance,Thriller",8.1
+The Incredibles,"Animation,Action,Adventure",8.0
+The Wizard of Oz,"Adventure,Family,Fantasy",8.1
+Network,Drama,8.1
+Pirates of the Caribbean: The Curse of the Black Pearl,"Action,Adventure,Fantasy",8.1
+Stand by Me,"Adventure,Comedy,Drama",8.1
+Rush,"Action,Biography,Drama",8.1
+Before Sunset,"Drama,Romance",8.1
+The Exorcist,Horror,8.1
+La haine,"Crime,Drama",8.1
+Into the Wild,"Adventure,Biography,Drama",8.1
+The Best Years of Our Lives,"Drama,Romance,War",8.1
+The Passion of Joan of Arc,"Biography,Drama,History",8.1
+Hotel Rwanda,"Biography,Drama,History",8.1
+The Terminator,"Action,Adventure,Sci-Fi",8.1
+Spotlight,"Biography,Crime,Drama",8.1
+Platoon,"Drama,War",8.1
+Logan,"Action,Drama,Sci-Fi",8.1
+Rocky,"Drama,Sport",8.1
+The Seventh Seal,"Drama,Fantasy",8.1
+Ratatouille,"Animation,Adventure,Comedy",8.1
+The Big Lebowski,"Comedy,Crime",8.1
+Ford v Ferrari,"Action,Biography,Drama",8.1
+Tokyo Story,Drama,8.1
+Room,"Drama,Thriller",8.1
+Mary and Max,"Animation,Comedy,Drama",8.1
+Mr. Smith Goes to Washington,"Comedy,Drama",8.1
+The Wages of Fear,"Adventure,Drama,Thriller",8.2
+Wild Strawberries,"Drama,Romance",8.1
+The Third Man,"Film-Noir,Mystery,Thriller",8.1
+How to Train Your Dragon,"Animation,Action,Adventure",8.1
+Jaws,"Adventure,Mystery,Thriller",8.1
+Sherlock Jr.,"Action,Comedy,Romance",8.2
+"Monsters, Inc.","Animation,Adventure,Comedy",8.1
+Mad Max: Fury Road,"Action,Adventure,Sci-Fi",8.1
+The General,"Action,Adventure,Comedy",8.1
+The Deer Hunter,"Drama,War",8.1
+On the Waterfront,"Crime,Drama,Thriller",8.1
+Memories of Murder,"Crime,Drama,Mystery",8.1
+Dead Poets Society,"Comedy,Drama",8.1
+Wild Tales,"Comedy,Drama,Thriller",8.1
+In the Name of the Father,"Biography,Crime,Drama",8.1
+Ben-Hur,"Adventure,Drama",8.1
+The Gold Rush,"Adventure,Comedy,Drama",8.1
+Gone Girl,"Drama,Mystery,Thriller",8.1
+The Grand Budapest Hotel,"Adventure,Comedy,Crime",8.1
+Hacksaw Ridge,"Biography,Drama,History",8.1
+Before Sunrise,"Drama,Romance",8.1
+Blade Runner,"Action,Drama,Sci-Fi",8.1
+Children of Heaven,"Drama,Family,Sport",8.2
+Barry Lyndon,"Adventure,Drama,War",8.1
+12 Years a Slave,"Biography,Drama,History",8.1
+Harry Potter and the Deathly Hallows: Part 2,"Adventure,Family,Fantasy",8.1
+My Neighbor Totoro,"Animation,Comedy,Family",8.1
+Million Dollar Baby,"Drama,Sport",8.1
+Godzilla Minus One,"Action,Adventure,Drama",8.3
+Fargo,"Crime,Thriller",8.1
+Warrior,"Action,Drama,Sport",8.1
+Catch Me If You Can,"Biography,Crime,Drama",8.1
+Klaus,"Animation,Adventure,Comedy",8.2
+Spider-Man: No Way Home,"Action,Adventure,Fantasy",8.2
+Gran Torino,Drama,8.1
+The Bridge on the River Kwai,"Adventure,Drama,War",8.1
+Raging Bull,"Biography,Drama,Sport",8.1
+"Three Billboards Outside Ebbing, Missouri","Comedy,Crime,Drama",8.1
+Trainspotting,Drama,8.1
+Inside Out,"Animation,Adventure,Comedy",8.1
+Gone with the Wind,"Drama,Romance,War",8.2
+The Secret in Their Eyes,"Drama,Mystery,Romance",8.2
+"Lock, Stock and Two Smoking Barrels","Action,Comedy,Crime",8.1
+V for Vendetta,"Action,Drama,Sci-Fi",8.2
+Dial M for Murder,"Crime,Thriller",8.2
+Rashomon,"Crime,Drama,Mystery",8.2
+The Elephant Man,"Biography,Drama",8.2
+Howl's Moving Castle,"Animation,Adventure,Family",8.2
+Prisoners,"Crime,Drama,Mystery",8.2
+Chinatown,"Drama,Mystery,Thriller",8.1
+The Treasure of the Sierra Madre,"Adventure,Drama,Western",8.2
+Finding Nemo,"Animation,Adventure,Comedy",8.2
+Monty Python and the Holy Grail,"Adventure,Comedy,Fantasy",8.2
+The Thing,"Horror,Mystery,Sci-Fi",8.2
+A Beautiful Mind,"Biography,Drama,Mystery",8.2
+The Great Escape,"Adventure,Drama,Thriller",8.2
+Yojimbo,"Action,Drama,Thriller",8.2
+Pan's Labyrinth,"Drama,Fantasy,War",8.2
+Kill Bill: Vol. 1,"Action,Crime,Thriller",8.2
+Unforgiven,"Drama,Western",8.2
+No Country for Old Men,"Crime,Drama,Thriller",8.2
+The Sixth Sense,"Drama,Mystery,Thriller",8.2
+Ran,"Action,Drama,War",8.2
+Shutter Island,"Drama,Mystery,Thriller",8.2
+There Will Be Blood,Drama,8.2
+Jurassic Park,"Action,Adventure,Sci-Fi",8.2
+The Truman Show,"Comedy,Drama",8.2
+Top Gun: Maverick,"Action,Drama",8.2
+Judgment at Nuremberg,"Drama,War",8.3
+Casino,"Crime,Drama",8.2
+The Father,"Drama,Mystery",8.2
+The Kid,"Comedy,Drama,Family",8.2
+Some Like It Hot,"Comedy,Music,Romance",8.2
+Green Book,"Biography,Comedy,Drama",8.2
+All About Eve,Drama,8.2
+Batman Begins,"Action,Crime,Drama",8.2
+The Wolf of Wall Street,"Biography,Comedy,Crime",8.2
+Dangal,"Action,Biography,Drama",8.3
+Taxi Driver,"Crime,Drama",8.2
+Downfall,"Biography,Drama,History",8.2
+Bicycle Thieves,Drama,8.3
+For a Few Dollars More,"Drama,Western",8.2
+L.A. Confidential,"Crime,Drama,Mystery",8.2
+1917,"Action,Drama,History",8.2
+Hamilton,"Biography,Drama,History",8.3
+Metropolis,"Drama,Sci-Fi",8.3
+Snatch,"Comedy,Crime",8.2
+Like Stars on Earth,"Drama,Family",8.3
+The Sting,"Comedy,Crime,Drama",8.3
+Die Hard,"Action,Thriller",8.2
+Indiana Jones and the Last Crusade,"Action,Adventure",8.2
+A Separation,Drama,8.3
+To Kill a Mockingbird,"Crime,Drama",8.3
+Heat,"Action,Crime,Drama",8.3
+A Clockwork Orange,"Crime,Sci-Fi",8.3
+Up,"Animation,Adventure,Comedy",8.3
+Vertigo,"Mystery,Romance,Thriller",8.3
+Full Metal Jacket,"Drama,War",8.3
+Amélie,"Comedy,Romance",8.3
+Citizen Kane,"Drama,Mystery",8.3
+M,"Crime,Mystery,Thriller",8.3
+Double Indemnity,"Crime,Drama,Film-Noir",8.3
+North by Northwest,"Action,Adventure,Mystery",8.3
+Scarface,"Crime,Drama",8.3
+Incendies,"Drama,Mystery,War",8.3
+Lawrence of Arabia,"Adventure,Biography,Drama",8.3
+Reservoir Dogs,"Crime,Thriller",8.3
+The Apartment,"Comedy,Drama,Romance",8.3
+Ikiru,Drama,8.3
+2001: A Space Odyssey,"Adventure,Sci-Fi",8.3
+The Hunt,Drama,8.3
+Oppenheimer,"Biography,Drama,History",8.3
+Star Wars: Episode VI - Return of the Jedi,"Action,Adventure,Fantasy",8.3
+Toy Story 3,"Animation,Adventure,Comedy",8.3
+Capernaum,Drama,8.4
+Requiem for a Dream,Drama,8.3
+Come and See,"Drama,Thriller,War",8.4
+Eternal Sunshine of the Spotless Mind,"Drama,Romance,Sci-Fi",8.3
+3 Idiots,"Comedy,Drama",8.4
+High and Low,"Crime,Drama,Mystery",8.4
+Singin' in the Rain,"Comedy,Musical,Romance",8.3
+Once Upon a Time in America,"Crime,Drama",8.3
+Good Will Hunting,"Drama,Romance",8.3
+Joker,"Crime,Drama,Thriller",8.4
+Your Name.,"Animation,Drama,Fantasy",8.4
+Princess Mononoke,"Animation,Action,Adventure",8.3
+Braveheart,"Biography,Drama,War",8.3
+Avengers: Endgame,"Action,Adventure,Drama",8.4
+Das Boot,"Drama,War",8.4
+Toy Story,"Animation,Adventure,Comedy",8.3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy,War",8.4
+Amadeus,"Biography,Drama,Music",8.4
+Coco,"Animation,Adventure,Drama",8.4
+American Beauty,Drama,8.3
+The Dark Knight Rises,"Action,Drama,Thriller",8.4
+Inglourious Basterds,"Adventure,Drama,War",8.4
+Oldboy,"Action,Drama,Mystery",8.3
+Aliens,"Action,Adventure,Sci-Fi",8.4
+The Great Dictator,"Comedy,Drama,War",8.4
+The Shining,"Drama,Horror",8.4
+Sunset Blvd.,"Drama,Film-Noir",8.4
+Witness for the Prosecution,"Crime,Drama,Mystery",8.4
+Spider-Man: Into the Spider-Verse,"Animation,Action,Adventure",8.4
+The Lives of Others,"Drama,Mystery,Thriller",8.4
+Avengers: Infinity War,"Action,Adventure,Sci-Fi",8.4
+Paths of Glory,"Drama,War",8.4
+12th Fail,"Biography,Drama",9.0
+Raiders of the Lost Ark,"Action,Adventure",8.4
+WALL·E,"Animation,Adventure,Family",8.4
+City Lights,"Comedy,Drama,Romance",8.5
+Apocalypse Now,"Drama,Mystery,War",8.4
+Memento,"Mystery,Thriller",8.4
+Django Unchained,"Drama,Western",8.5
+Rear Window,"Mystery,Thriller",8.5
+Alien,"Horror,Sci-Fi",8.5
+Once Upon a Time in the West,Western,8.5
+Modern Times,"Comedy,Drama,Romance",8.5
+The Intouchables,"Comedy,Drama",8.5
+The Usual Suspects,"Crime,Drama,Mystery",8.5
+Cinema Paradiso,"Drama,Romance",8.5
+Harakiri,"Action,Drama,Mystery",8.6
+Casablanca,"Drama,Romance,War",8.5
+Grave of the Fireflies,"Animation,Drama,War",8.5
+American History X,"Crime,Drama",8.5
+The Prestige,"Drama,Mystery,Sci-Fi",8.5
+Léon: The Professional,"Action,Crime,Drama",8.5
+The Departed,"Crime,Drama,Thriller",8.5
+Whiplash,"Drama,Music",8.5
+Gladiator,"Action,Adventure,Drama",8.5
+Spider-Man: Across the Spider-Verse,"Animation,Action,Adventure",8.6
+The Lion King,"Animation,Adventure,Drama",8.5
+Spirited Away,"Animation,Adventure,Family",8.6
+Psycho,"Horror,Mystery,Thriller",8.5
+Parasite,"Drama,Thriller",8.5
+Star Wars: Episode IV - A New Hope,"Action,Adventure,Fantasy",8.6
+Back to the Future,"Adventure,Comedy,Sci-Fi",8.5
+The Pianist,"Biography,Drama,Music",8.5
+The Green Mile,"Crime,Drama,Fantasy",8.6
+Terminator 2: Judgment Day,"Action,Adventure,Sci-Fi",8.6
+City of God,"Crime,Drama",8.6
+Seven Samurai,"Action,Drama",8.6
+Life Is Beautiful,"Comedy,Drama,Romance",8.6
+Saving Private Ryan,"Drama,War",8.6
+It's a Wonderful Life,"Drama,Family,Fantasy",8.6
+Dune: Part Two,"Action,Adventure,Drama",8.7
+Interstellar,"Adventure,Drama,Sci-Fi",8.7
+The Silence of the Lambs,"Crime,Drama,Thriller",8.6
+Se7en,"Crime,Drama,Mystery",8.6
+One Flew Over the Cuckoo's Nest,Drama,8.7
+Goodfellas,"Biography,Crime,Drama",8.7
